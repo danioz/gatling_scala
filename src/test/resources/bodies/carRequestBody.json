@@ -1,0 +1,50 @@
+{
+  "brand": "BMW",
+  "model": "750i",
+  "generation": 6,
+  "colorDetails": {
+    "color": "Schwarz",
+    "code": "668"
+  },
+  "engine": {
+    "displacement": 4395,
+    "cylinderSystem": "V8",
+    "power": 450
+  },
+  "interior": {
+    "frontSeats": {
+      "heated": true,
+      "ventilated": true,
+      "massage": true
+    },
+    "backSeats": {
+      "heated": true,
+      "ventilated": true,
+      "massage": false
+    },
+    "securityPackage": {
+    },
+    "extras": {
+      "heatedSteeringWheel": true,
+      "smokerPackage": true
+    }
+  },
+  "productionHistory": [
+    {
+      "date": "22.01.2021",
+      "description": "Car manufactured"
+    },
+    {
+      "date": "01.02.2021",
+      "description": "Car put on parking slot"
+    },
+    {
+      "date": "21.02.2021",
+      "description": "Shippment prepratation"
+    },
+    {
+      "date": "01.03.2021",
+      "description": "Car shipped"
+    }
+  ]
+}
